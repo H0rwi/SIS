@@ -61,4 +61,4 @@
 ## Math
 
 - Modulo - podijelim jedan broj s drugim i ostane nam ostatak ako nije lijep broj
-- XO - kada pomnozimo 0*0 ili 1*1 uvijek ćemo dobiti 0, ako množimo 0*1 ili 1*0 dobit cemo 1
+- XOR - kada pomnozimo 0*0 ili 1*1 uvijek ćemo dobiti 0, ako množimo 0*1 ili 1*0 dobit cemo 1
